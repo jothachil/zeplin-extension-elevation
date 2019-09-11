@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[Zeplin extension](https://extensions.zeplin.io/) that generates displays elevation of layer according to material design shadow guidelines
+[Zeplin extension](https://extensions.zeplin.io/) that displays elevation of layer according to material design shadow guidelines
 
 <img src="https://i.ibb.co/K9zKCdB/Screenshot-2019-09-11-at-8-24-01-PM.png"  />
 
