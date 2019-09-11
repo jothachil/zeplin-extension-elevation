@@ -37,7 +37,7 @@ function layer(context, layer) {
             break;
         default:
             if(layer.shadows.length == 0 ){
-                return "No 🔆Shadow on this layer "
+                return "No 🔆Sun casting shadow on this layer"
             }
             else
             {
