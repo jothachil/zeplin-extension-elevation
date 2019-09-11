@@ -11,7 +11,11 @@
   },
   "zeplin": {
     "displayName": "Surface Elevation",
-    "platforms": ["web", "ios", "android"]
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
   },
   "dependencies": {
     "zem": "^0.4.4"
