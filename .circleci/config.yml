@@ -22,4 +22,3 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
-       - run: NODE_ENV=local npm run build
