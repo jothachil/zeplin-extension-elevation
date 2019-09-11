@@ -7,10 +7,10 @@
   <a href="https://extensions.zeplin.io">
     <img src="https://img.shields.io/badge/zeplin-extension-ffbe12.svg" alt="Zeplin Extension" />
   </a>
-
-  <a href="https://extensions.zeplin.io">
-    <img src="https://img.shields.io/badge/zeplin-extension-ffbe12.svg" alt="Zeplin Extension" />
+  <a href="https://travis-ci.org/johnthachil/zeplin-extension-elevation">
+    <img src="https://travis-ci.org/johnthachil/zeplin-extension-elevation.svg?branch=master" alt="Zeplin Extension" />
   </a>
+ 
 </p>
 
 [Zeplin extension](https://extensions.zeplin.io/) that displays elevation of layer according to material design shadow guidelines
@@ -39,6 +39,8 @@ npm i
 To start developing, to make a build or to execute some functions from extension follow this [guide](https://github.com/zeplin/zem#scripts).
 
 To learn more about zem, [see documentation](https://github.com/zeplin/zem).
+
+If you like to take full control of your build process you can try [zero](https://github.com/baybara-pavel/zero) boilerplate.
 
 ## Authors
 
