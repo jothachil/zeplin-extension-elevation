@@ -1,0 +1,19 @@
+{
+  "name": "surface-elevation",
+  "version": "0.1.0",
+  "description": "Finding the elevation of shadows according to material design specs",
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec",
+    "publish": "zem publish"
+  },
+  "zeplin": {
+    "displayName": "Surface Elevation",
+    "platforms": ["web", "ios", "android"]
+  },
+  "dependencies": {
+    "zem": "^0.4.4"
+  }
+}

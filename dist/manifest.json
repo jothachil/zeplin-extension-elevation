@@ -1,0 +1,13 @@
+{
+  "packageName": "surface-elevation",
+  "name": "Surface Elevation",
+  "description": "Finding the elevation of shadows according to material design specs",
+  "version": "0.1.0",
+  "platforms": [
+    "web",
+    "ios",
+    "android"
+  ],
+  "moduleURL": "./main.682df600.js",
+  "readmeURL": "./README.md"
+}
