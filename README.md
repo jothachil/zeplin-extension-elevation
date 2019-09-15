@@ -40,8 +40,6 @@ To start developing, to make a build or to execute some functions from extension
 
 To learn more about zem, [see documentation](https://github.com/zeplin/zem).
 
-If you like to take full control of your build process you can try [zero](https://github.com/baybara-pavel/zero) boilerplate.
-
 ## Authors
 
 John Thachil
