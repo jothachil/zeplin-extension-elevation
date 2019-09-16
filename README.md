@@ -19,12 +19,7 @@
 
 ## How to Install
 
-1. Go Zeplin Project you wish to install the plugin
-2. Click on extension setting of the project.
-3. Press and hold ⌥ 
-4. Click on add local extension button on top right corner.
-5. Paste URL: https://johnthachil.github.io/zeplin-extension-elevation/dist/manifest.json
-6. Click Add & select a layer to see the elevation.
+In the Zeplin app, open the Extensions > Manage Project Extensions menu. In the extensions window, hold down the alt key and click the Add Local Extension button in the top-right corner. In the modal panel add the URL below. You're all set!
 
 ## How to make a changes
 
