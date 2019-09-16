@@ -17,7 +17,7 @@
 
 <img src="https://i.ibb.co/K9zKCdB/Screenshot-2019-09-11-at-8-24-01-PM.png"  />
 
-## How to Install
+## 🚀 How to Install
 
 In the Zeplin app, open the `Extensions > Manage Project Extensions` menu. In the extensions window, hold down the <kbd>alt</kbd> key and click the `Add Local Extension` button in the top-right corner. In the modal panel add the URL below. You're all set!
 
@@ -26,7 +26,7 @@ https://johnthachil.github.io/zeplin-extension-elevation/dist/manifest.json
 ```
 
 
-## How to make a changes
+## 👽 How to make a changes
 
 First, you need last stable Node.js `^8.9.4`. Follow this [guide](https://github.com/creationix/nvm/blob/master/README.md#installation) if you don't have any.
 
@@ -40,10 +40,10 @@ To start developing, to make a build or to execute some functions from extension
 
 To learn more about zem, [see documentation](https://github.com/zeplin/zem).
 
-## Authors
+## 🤪 Authors
 
 John Thachil
 
-## License
+## 📑 License
 
 Eleva is available under the MIT license. 
