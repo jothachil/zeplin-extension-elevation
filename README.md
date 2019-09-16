@@ -19,7 +19,7 @@
 
 ## 🚀 How to Install
 
-In the Zeplin app, open the `Extensions > Manage Project Extensions` menu. In the extensions window, hold down the <kbd>alt</kbd> key and click the `Add Local Extension` button in the top-right corner. In the modal panel add the URL below. You're all set!
+In the Zeplin app, open the `Extensions > Manage Project Extensions` menu. In the extensions window, hold down the <kbd>⌥</kbd> key and click the `Add Local Extension` button in the top-right corner. In the modal panel add the URL below. You're all set!
 
 ```html
 https://johnthachil.github.io/zeplin-extension-elevation/dist/manifest.json
