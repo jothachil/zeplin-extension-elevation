@@ -1,6 +1,6 @@
 {
   "packageName": "surface-elevation",
-  "name": "Surface Elevation",
+  "name": "😌 Eleva",
   "description": "Finding the elevation of shadows according to material design specs",
   "version": "0.1.0",
   "platforms": [
@@ -8,6 +8,6 @@
     "ios",
     "android"
   ],
-  "moduleURL": "./main.63d93180.js",
+  "moduleURL": "./main.bcb67f7b.js",
   "readmeURL": "./README.md"
 }
