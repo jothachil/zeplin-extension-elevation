@@ -10,7 +10,7 @@
     "publish": "zem publish"
   },
   "zeplin": {
-    "displayName": "Surface Elevation",
+    "displayName": "😌 Eleva",
     "platforms": ["web", "ios", "android"]
   },
   "dependencies": {
