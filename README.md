@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.ibb.co/MR9M4jL/eleva2.png" width="200" />
+<img src="https://i.ibb.co/xYFRgmf/Eleva-2.gif" width="300" />
 </p>
 
 <p align="center">
