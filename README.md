@@ -15,7 +15,7 @@
 
 [Zeplin extension](https://extensions.zeplin.io/) that displays elevation of layer according to material design shadow guidelines
 
-<img src="https://i.ibb.co/RP56MhQ/Eleva-Zeplin-Extension.jpg"  />
+<img src="https://i.ibb.co/d2cgdtR/Eleva-Zeplin-Extension-2.jpg"  />
 
 ## 🚀 How to Install
 
