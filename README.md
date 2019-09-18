@@ -38,6 +38,10 @@ To start developing, to make a build or to execute some functions from extension
 
 To learn more about zem, [see documentation](https://github.com/zeplin/zem).
 
+To know how to create custom shadow , [see documentation](https://github.com/johnthachil/zeplin-extension-elevation/blob/master/custom_shadow.md).
+
+
+
 ## 🤪 Authors
 
 John Thachil
