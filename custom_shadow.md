@@ -1,6 +1,11 @@
-#Custom Shadow Elevation
+# Custom Shadow Elevation
 
-''' javscript
+To create a custom shadow for your project add your shadow values (color, spread, blur, etc..) for different elevation in shadow.js file.
+``` js
+
+
+// shadow.js
+
 const dp1 = [{
     "spread": 0,
     "color": {
@@ -78,4 +83,4 @@ const dp2 = [{
 }]
 
 export { dp1,dp2 };
-'''
+```
