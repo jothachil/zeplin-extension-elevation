@@ -31,13 +31,8 @@ https://johnthachil.github.io/zeplin-extension-elevation/dist/manifest.json
 
 ## 👽 How to make a changes
 
-First, you need last stable Node.js `^8.9.4`. Follow this [guide](https://github.com/creationix/nvm/blob/master/README.md#installation) if you don't have any.
-
-Next, install project dependencies:
-
-```bash
-npm i
-```
+1. Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+2. Install with [npm](https://www.npmjs.com/): `npm install`
 
 To start developing, to make a build or to execute some functions from extension follow this [guide](https://github.com/zeplin/zem#scripts).
 
