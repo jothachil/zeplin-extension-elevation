@@ -1,8 +1,8 @@
 {
-  "packageName": "surface-elevation",
+  "packageName": "eleva",
   "name": "😌 Eleva",
   "description": "Finding the elevation of shadows according to material design specs",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "platforms": [
     "web",
     "ios",

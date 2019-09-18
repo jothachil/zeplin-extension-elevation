@@ -1,6 +1,6 @@
 {
-  "name": "surface-elevation",
-  "version": "0.1.0",
+  "name": "eleva",
+  "version": "1.0.1",
   "description": "Finding the elevation of shadows according to material design specs",
   "scripts": {
     "start": "zem start",
